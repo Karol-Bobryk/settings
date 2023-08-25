@@ -1,0 +1,8 @@
+[
+  {
+    "key": "ctrl+alt+oem_4",
+    "command": "type",
+    "args": { "text": "()=>" },
+    "when": "editorTextFocus"
+  }
+]
